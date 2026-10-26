@@ -3,6 +3,11 @@
 Este documento descreve as estratégias de engenharia e regras de negócio implementadas na orquestração do fluxo RPA + IA utilizando n8n, LangChain e OpenAI, cumprindo os requisitos do Desafio Completo.
 
 > 📁 **Nota sobre o Workflow:** O arquivo `.json` contendo o fluxo exportado (workflow completo do n8n) está disponibilizado neste repositório para referência, consulta das configurações dos nodes e importação direta na plataforma.
+> 
+> ````
+> ├── 📁 n8n/
+> │   └── 📄 workflow.json
+> ````
 
 ---
 
