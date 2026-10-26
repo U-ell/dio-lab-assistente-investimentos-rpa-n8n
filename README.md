@@ -141,6 +141,7 @@ Conecte o Agente de IA do N8N a um modelo como Gemini ou GPT para:
 ```
 📁 dio-lab-assistente-investimentos-rpa-n8n/
 ├── 📄 README.md
+├── 📄 DELIVERY.md *(GUIA DO ENTREGÁVE FINAL)*
 ├── 📁 src/
 │   └── 📄 extrair_clientes.ipynb   # ✅ Notebook Python (já implementado, falta só o TODO)
 ├── 📁 n8n/
