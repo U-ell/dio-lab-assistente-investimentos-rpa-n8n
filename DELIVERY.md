@@ -6,7 +6,7 @@ Este documento descreve as estratégias de engenharia e regras de negócio imple
 > 
 > ````
 > ├── 📁 n8n/
-> │   └── 📄 workflow.json
+> │   └── 📄 Processo de RPA com N8N.json
 > ````
 
 ---
